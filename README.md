@@ -98,6 +98,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 For any inquiries or feedback, please contact:
 
 - **Rehan Pathan**
-- Email: [your-email@example.com](rehan.sarfaraz.pathan.com)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/rehan-pathan1)
+- Email: [rehan.sarfaraz.pathan@gmail.com](rehan.sarfaraz.pathan.com)
+- LinkedIn: [rehan-pathan1](https://www.linkedin.com/rehan-pathan1)
 
