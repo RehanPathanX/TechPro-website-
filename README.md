@@ -21,11 +21,8 @@ A comprehensive breakdown of all IT services offered, including:
 Each service is highlighted with a dedicated section, offering brief descriptions to give potential clients a clear understanding of how TechPro can meet their IT needs.
 
 ### 4. Team Page
-Showcases the expertise of the team members behind TechPro, with individual profiles of:
-- **Rehan Khan** - Project Lead and Backend Developer
-- **Ravi** - Designer
-- **Abuhurerah** - Frontend Developer
-This section builds trust by presenting the skilled professionals responsible for delivering high-quality services.
+Showcases the expertise of the team members behind TechPro, with individual profiles .
+ This section builds trust by presenting the skilled professionals responsible for delivering high-quality services.
 
 ### 5. Blog Page
 The blog provides valuable insights into the IT industry, including articles on trends, case studies, and technical tutorials. Powered by PHP, it allows easy content management through the backend, ensuring that the blog remains up-to-date.
